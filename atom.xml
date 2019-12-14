@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://plumwang.github.io</id>
     <title>Gridea</title>
-    <updated>2019-12-14T01:41:59.898Z</updated>
+    <updated>2019-12-14T08:18:53.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://plumwang.github.io"/>
     <link rel="self" href="https://plumwang.github.io/atom.xml"/>
@@ -10,4 +10,22 @@
     <logo>https://plumwang.github.io/images/avatar.png</logo>
     <icon>https://plumwang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[huting]]></title>
+        <id>https://plumwang.github.io/post/huting</id>
+        <link href="https://plumwang.github.io/post/huting">
+        </link>
+        <updated>2019-12-14T08:18:16.000Z</updated>
+        <content type="html"><![CDATA[<p>huting</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://plumwang.github.io/post/test</id>
+        <link href="https://plumwang.github.io/post/test">
+        </link>
+        <updated>2019-12-14T08:17:55.000Z</updated>
+        <content type="html"><![CDATA[<p>tet</p>
+]]></content>
+    </entry>
 </feed>
